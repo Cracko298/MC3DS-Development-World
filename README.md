@@ -1,5 +1,5 @@
 # MC3DS-Development-World
-A "new" Minecraft 3DS Development World, based off of the Dev. World that was created by and removed by DeadSkullzJr.
+- A "brand new" Minecraft 3DS Development World, based off of the Dev. World that was created by and removed by DeadSkullzJr.
 
 ## NOTICE:
 - This is a recreation of the Original Development World.
